@@ -43,8 +43,8 @@ This project involves a comprehensive Ola ride dataset analysis using PostgreSQL
 - 17.89% of total rides were cancelled by drivers, which is significantly higher than the 10.19% cancelled by customers.
 - A cancellation rate of 28.08% is observed, which is a significant portion of the rides.
 - The most common reason for the rides being cancelled by customers is "driver not moving towards the location" on the other hand for the driver, the most common reason is "personal and car related issue".
-- Prime Plus received the highest *customer ratings*, reflecting strong customer satisfaction with this premium service.
-- E-Bike and Prime SUV received the highest *driver ratings*, suggesting that drivers prefer operating these vehicle types, possibly due to comfort, convenience, or earnings.
+- Prime Plus received the highest **customer ratings**, reflecting strong customer satisfaction with this premium service.
+- E-Bike and Prime SUV received the highest **driver ratings**, suggesting that drivers prefer operating these vehicle types, possibly due to comfort, convenience, or earnings.
 - Prime Sedan covered the most total ride distance among all vehicle types, indicating it is the most utilized for longer trips and high-demand routes.
 
 # Conclusions
